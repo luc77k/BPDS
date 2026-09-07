@@ -6,7 +6,8 @@ Segundo semestre - Tecnico Profesional en Desarrollo de software.
 
 Descripción del proyecto:
 
-Este repositorio es un proyecto práctico de la asignatura Buenas Prácticas de Desarrollo de Software, donde se aplican los conceptos fundamentales de control de versiones con Git y GitHub: creación de repositorios, manejo de ramas, Pull Requests y resolución de conflictos.
+Version PROD: este proyecto fue modificado desde la rama de produccion para practicar el manejo de conflictos en Git.
+
 
 Flujo de trabajo practicado: 
 git init, git add, git commit
