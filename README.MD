@@ -6,7 +6,10 @@ Segundo semestre - Tecnico Profesional en Desarrollo de software.
 
 Descripción del proyecto:
 
-Version MASTER: este proyecto refleja la rama principal estable con la version final del README.
+Este repositorio es un proyecto practico de la asignatura Buenas Practicas de Desarrollo de Software.
+Se trabajo con la rama principal (master) y la rama de produccion (prod2)
+para practicar la creacion de Pull Requests y la resolucion de conflictos en Git.
+
 
 Flujo de trabajo practicado: 
 git init, git add, git commit
