@@ -6,7 +6,9 @@ Segundo semestre - Tecnico Profesional en Desarrollo de software.
 
 Descripción del proyecto:
 
-Version PROD: este proyecto fue modificado desde la rama de produccion para practicar el manejo de conflictos en Git.
+Este repositorio es un proyecto practico de la asignatura Buenas Practicas de Desarrollo de Software.
+Se trabajo con la rama principal (master) y la rama de produccion (prod2)
+para practicar la creacion de Pull Requests y la resolucion de conflictos en Git.
 
 
 Flujo de trabajo practicado: 
