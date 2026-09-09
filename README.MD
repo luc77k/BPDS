@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+BPDS - Proyecto de Buenas Practicas de Desarrollo de Software
 
-## Getting Started
+Estudiante: Luciano Locarno Gonzalez, Universidad de la Costa - CUC 
+Segundo semestre - Técnico profesional en Desarrollo de Software 
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Descripcion del proyecto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este repositorio es un proyecto practico de la asignatura Buenas Practicas de Desarrollo de Software. Incluye una TODO List construida con Next.js que implementa el patron CRUD completo (Create, Read, Update, Delete): crear tareas escribiendo y presionando Enter, editar con autoguardado al salir del campo, marcar como completada sin eliminar, y un boton separado para eliminar por completo.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+Flujo de trabajo practicado
+Control de versiones con Git: git init, git add, git commit, git push
+Manejo de ramas, Pull Requests y resolucion de conflictos
+Conversion del proyecto a Next.js con create-next-app
+Implementacion de un CRUD funcional con React (useState, manejo de eventos)
+Getting Started (Next.js)
 
-To learn more about Next.js, take a look at the following resources:
+Este proyecto fue creado con Next.js usando create-next-app.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Para correr el servidor de desarrollo:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+bash
+npm run "correr"
 
-## Deploy on Vercel
+Autor
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Usuario de GitHub: luc77k
